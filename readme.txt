@@ -1,2 +1,2 @@
-hello go
-hello world
+hello go,
+hello world.
