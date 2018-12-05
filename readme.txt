@@ -1,5 +1,5 @@
 hello go,emmm
-hello world.
+hello world!
 haha~
 heihei~
 new test
